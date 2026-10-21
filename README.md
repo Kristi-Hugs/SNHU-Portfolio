@@ -1,4 +1,5 @@
 About Me
+
 Welcome to my Southern New Hampshire University Computer Science portfolio. This repository serves as a collection of projects, assignments, and technical work completed throughout my academic journey. It demonstrates my growth in software development, secure coding, problem solving, system design, and software engineering principles.
 
 As a Computer Science student, I have developed experience working with Java, software security, object-oriented programming, databases, version control, and software development methodologies. This portfolio provides examples of both my technical abilities and my commitment to continuous learning.
